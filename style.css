@@ -1,0 +1,7 @@
+.form-check-label{
+    user-select: none;
+}
+.dark-mode{
+    color: white;
+    background-color: black;
+}
